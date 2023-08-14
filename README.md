@@ -54,7 +54,7 @@ From the 8th class iin scool, I immersed myself in the world of programming, and
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="yarn" width="40" height="40"/> </a>
 </p>
 
+## 👨‍💻 Stat
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hotveyn&theme=default)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hotveyn&theme=vue)
  

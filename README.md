@@ -8,11 +8,7 @@
 
 ## ⛄ About
 ### 🔎 Me
-From the 8th class iin scool, I immersed myself in the world of programming, and since then it has become an integral part of my life. I have always been fascinated by the latest technological advancements and have eagerly followed their development since childhood. In college, I achieved significant success and had the opportunity to participate in the all-Russian championship "Professionals". In my free time, I engage in developing my own projects, exploring both broad and deep aspects of programming.
-
-### 🏆 Personal achievements
-- 1st place in the open regional championship "Professionals" of the Moscow region (2023). 
-- Finalist of the "Professionals" championship in Orenburg, Russia. Competence: Web Technologies.
+I'm freak/shizo/sigma
 
 
 ## 🛠️ Skills
